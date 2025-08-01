@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+# TODO: In case we want to disable issues and redirect elsewhere
+# contact_links:
+#   - name: CZI Support
+#     url: https://chanzuckerberg.com/education/ai/#ai-contact__form
+#     about: Please ask and answer questions here
