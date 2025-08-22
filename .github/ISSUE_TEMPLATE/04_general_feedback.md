@@ -1,6 +1,6 @@
 ---
 name: General Feedback
-description: Provide feedback or share your thoughts.
+about: Provide feedback or share your thoughts.
 title: "[FEEDBACK]: "
 labels: ["feedback"]
 ---
