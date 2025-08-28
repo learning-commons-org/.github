@@ -3,6 +3,12 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/0a63e215-7054-448c-940b-64d1804f88d2" style="width:100%" />
 
+<p align="center">
+  <a href="https://docs.czieducation.org/">Docs</a>
+  •
+  <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form">Partner with us</a>
+</p>
+
 ## **About AI Developer Tools for Education**
 We're building open, foundational AI infrastructure to accelerate the development of more accurate, state academic standards-aligned, and learning science-backed educational technology products for the public good. Our Developer Tools are focused on improving the quality of LLM outputs, ensuring prompts, responses, and instructional design align with best practices in teaching and learning.
 
