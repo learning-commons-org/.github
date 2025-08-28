@@ -4,9 +4,9 @@
 <img alt="image" src="https://github.com/user-attachments/assets/0a63e215-7054-448c-940b-64d1804f88d2" style="width:100%" />
 
 <p align="center">
-  <a href="https://docs.czieducation.org/">Docs</a>
+  <a href="https://docs.czieducation.org/" target="_blank">Docs</a>
   •
-  <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form">Partner with us</a>
+  <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form" target="_blank">Partner with us</a>
 </p>
 
 ## **About AI Developer Tools for Education**
