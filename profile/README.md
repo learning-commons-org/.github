@@ -29,10 +29,11 @@ Check out our extensive [technical documentation](https://docs.czieducation.org/
 
 We want to hear from you. For questions or feedback, please open an issue in the repository, or reach out to us at edu-support@chanzuckerberg.com.
 
-## **🤝 Partner with us**
+## **🤝 Partner with us** ---
 
-If you would like to participate in our private beta or partner with us to further the public good of educational AI, [reach out to us](https://chanzuckerberg.com/education/ai/#ai-contact__form).
+Interested in joining our private beta or partnering with us to advance the public good of educational AI? 
 
+Join the waitlist to unlock exclusive access to datasets and evaluators, get early previews of integrations, and receive hands-on support from our team. [Contact us](https://chanzuckerberg.com/education/ai/?utm_source=dev&utm_medium=github#ai-contact__form). 
 ## **🛡️ Reporting security Issues**
 
 If you believe you have found a security issue, please responsibly disclose by contacting us at security@chanzuckerberg.com.
