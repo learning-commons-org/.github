@@ -9,34 +9,35 @@
   <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form" target="_blank">Partner with us</a>
 </p>
 
-## **About AI Developer Tools for Education**
-We're building open, foundational AI infrastructure to accelerate the development of more accurate, state academic standards-aligned, and learning science-backed educational technology products for the public good. Our Developer Tools are focused on improving the quality of LLM outputs, ensuring prompts, responses, and instructional design align with best practices in teaching and learning.
+## **🧰 About our AI developer tools**  
 
-## **Tools**
+We’re building open, infrastructural AI tools to help edtech tools better align with the best practices of teaching and learning. Our developer tools are focused on improving and evaluating LLM outputs \- ensuring AI-powered products are pedagogically accurate, standards-aligned, and research-grounded. 
 
-### [**Knowledge Graph**](https://github.com/czi-education/knowledge-graph)
+### [**Knowledge Graph**](https://github.com/CZI-AIDT-Staging#knowledge-graph)
 
-Our **Knowledge Graph** improves the accuracy of AI outputs through a structured network of datasets across curricula, state academic standards, and learning science research. Developers can leverage our graph to enhance AI accuracy, comprehensiveness, and educational relevance.
+Improve the accuracy of AI outputs through a structured network of datasets across curricula, state academic standards, and learning science research. Developers can leverage our graph to enhance AI accuracy, comprehensiveness, and instructional coherence.
 
-### [**Evaluators**](https://github.com/czi-education/evaluators)
+### [**Evaluators**](https://github.com/CZI-AIDT-Staging/evaluators)
 
-Our Evaluators automatically assess the instructional quality of educational AI outputs through research-backed educational rubrics and expert-designed scoring systems. With standardized evaluation frameworks and metrics, these tools help assess whether AI-generated content meets high standards of accuracy, pedagogical soundness, and effectiveness.
+Assess the instructional quality of educational AI outputs through research-backed educational rubrics and expert-designed scoring systems. With standardized evaluation frameworks and metrics, these tools help assess whether AI-generated content meets high standards of accuracy, pedagogical soundness, and effectiveness.
 
-Read more about our Developer Tools https://tech.chanzuckerberg.com/edtech/?source=GH-org
+[Learn more](https://tech.chanzuckerberg.com/edtech/?source=GH-org) about our developer tools. 
 
-## **Support & Feedback**
+Check out our extensive [technical documentation](https://docs.czieducation.org/).
+
+## **💬 Support & feedback**
 
 We want to hear from you. For questions or feedback, please open an issue in the repository, or reach out to us at edu-support@chanzuckerberg.com.
 
-## **Partner with us**
+## **🤝 Partner with us**
 
 If you would like to participate in our private beta or partner with us to further the public good of educational AI, [reach out to us](https://chanzuckerberg.com/education/ai/#ai-contact__form).
 
-## **Reporting Security Issues**
+## **🛡️ Reporting security Issues**
 
 If you believe you have found a security issue, please responsibly disclose by contacting us at security@chanzuckerberg.com.
 
-## **Disclaimer**
+## **📝 Disclaimer**
 
 The resources provided in this repository are made available "as-is", without warranties or guarantees of any kind. They may contain inaccuracies, limitations, or other constraints depending on the context of use.
 
