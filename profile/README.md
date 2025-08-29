@@ -13,11 +13,11 @@
 
 We’re building open, infrastructural AI tools to help edtech tools better align with the best practices of teaching and learning. Our developer tools are focused on improving and evaluating LLM outputs \- ensuring AI-powered products are pedagogically accurate, standards-aligned, and research-grounded. 
 
-### [**Knowledge Graph**](https://github.com/CZI-AIDT-Staging#knowledge-graph)
+### [**Knowledge Graph**](https://github.com/czi-education/knowledge-graph)
 
 Improve the accuracy of AI outputs through a structured network of datasets across curricula, state academic standards, and learning science research. Developers can leverage our graph to enhance AI accuracy, comprehensiveness, and instructional coherence.
 
-### [**Evaluators**](https://github.com/CZI-AIDT-Staging/evaluators)
+### [**Evaluators**](https://github.com/czi-education/evaluators)
 
 Assess the instructional quality of educational AI outputs through research-backed educational rubrics and expert-designed scoring systems. With standardized evaluation frameworks and metrics, these tools help assess whether AI-generated content meets high standards of accuracy, pedagogical soundness, and effectiveness.
 
