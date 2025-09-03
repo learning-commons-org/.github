@@ -1,14 +1,9 @@
-
-
-
-<img alt="image" src="https://github.com/user-attachments/assets/0a63e215-7054-448c-940b-64d1804f88d2" style="width:100%" />
-
+<img alt="image" src="https://github.com/user-attachments/assets/7fee24d5-606f-4168-964c-600a42153ac2" style="width:100%" />
 <p align="center">
   <a href="https://docs.czieducation.org/" target="_blank">Docs</a>
   •
   <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form" target="_blank">Partner with us</a>
 </p>
-
 ##  **🧰 About our AI Developer Tools**  
 
 We’re building open, infrastructural AI tools to help edtech tools better align with the best practices of teaching and learning. Our developer tools are focused on improving and evaluating LLM outputs \- ensuring AI-powered products are pedagogically accurate, standards-aligned, and research-grounded. 
