@@ -1,4 +1,4 @@
-<img alt="image" src="https://github.com/user-attachments/assets/7fee24d5-606f-4168-964c-600a42153ac2" style="width:100%" />
+<img style="width:100%" alt="edu_hero" src="https://github.com/user-attachments/assets/7fee24d5-606f-4168-964c-600a42153ac2" />
 <p align="center">
   <a href="https://docs.czieducation.org/" target="_blank">Docs</a>
   •
