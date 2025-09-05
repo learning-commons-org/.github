@@ -5,9 +5,9 @@
   <a href="https://chanzuckerberg.com/education/ai/#ai-contact__form" target="_blank">Partner with us</a>
 </p>
 
-## **🧰 About our AI Developer Tools**  
+##  **🧰 About our AI Developer Tools**  
 
-We’re building open, infrastructural AI tools to help edtech tools better align with the best practices of teaching and learning. Our developer tools are focused on improving and evaluating LLM outputs \- ensuring AI-powered products are pedagogically accurate, standards-aligned, and research-grounded. 
+We’re building AI infrastructure tools to help edtech tools align more closely with teaching and learning best practices. Our tools focus on improving and evaluating LLM output to ensure AI-powered products are pedagogically sound, standards-aligned, and grounded in research.  
 
 ### [**Knowledge Graph**](https://github.com/czi-education/knowledge-graph)
 
