@@ -6,4 +6,4 @@ However, if you’ve discovered a bug or have a feature suggestion, please feel 
 
 If you believe you have found a security issue, please responsibly disclose by contacting us at [security@learningcommons.org](mailto:security@learningcommons.org).
 
-If you are interested in partnering with us on datasets for the Knowledge Graph, fill out [this form](https://learningcommons.org/contact/?utm_source=github&utm_medium=overview&utm_campaign=privatebeta) to get in touch.
+If you are interested in partnering with us, fill out [this form](https://learningcommons.org/contact/?utm_source=github&utm_medium=overview&utm_campaign=privatebeta) to get in touch.
