@@ -18,8 +18,14 @@ We’re building AI infrastructure tools to help edtech tools align more closely
 
 Check out our [technical docs](https://docs.learningcommons.org/).
 
+## 🚀 Tell us how you’re using our resources:
+Whether it's a prototype, a product feature, or an experiment, your use case gives us valuable insight into real-world applications — and helps shape what we build next. We’re excited to learn from what you’re building.  
+
+ **👉 Share your work with us [here.](https://docs.google.com/forms/d/e/1FAIpQLScvyzs1_wYTzc03iQfxQWKWZjn2i1c5OZh4rMsfMpyMMMtSyg/viewform)**
+
+
 ## **💬 Support & feedback**
-We want to hear from you. For questions or feedback, please open an issue in the repository or reach out to us at [support@learningcommons.org](mailto:support@learningcommons.org).
+For questions or feedback, please open an issue in the repository or reach out to us at [support@learningcommons.org](mailto:support@learningcommons.org).
 
 ## **🤝 Partner with us**
 
