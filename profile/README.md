@@ -30,7 +30,7 @@ Whether it's a prototype, a product feature, or an experiment, your use case giv
 For questions or feedback, please open an issue in the repository or reach out to us at [support@learningcommons.org](mailto:support@learningcommons.org).
 
 ## **Stay up to date**
-Sign up for a <a href="https://platform.learningcommons.org" target="_blank">Learning Commons account</a> to receive news about the latest updates, and releases.
+Sign up for a <a href="https://platform.learningcommons.org" target="_blank">Learning Commons account</a> to receive news about the latest updates and releases.
 
 ## **🛡️ Reporting security issues**
 If you believe you have found a security issue, please responsibly disclose by contacting us at [security@learningcommons.org](mailto:security@learningcommons.org).
