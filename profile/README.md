@@ -1,6 +1,6 @@
 <img  style="width:100%" alt="edu_hero" src="https://github.com/user-attachments/assets/fa02b5ee-982e-41a4-a89c-42e365a04680" />
 <p align="center">
- <a href="https://platform.learningcommons.org/" target="_blank">Go to the Learning Commons Platform</a>
+ <a href="https://platform.learningcommons.org/" target="_blank">Learning Commons Platform</a>
   •
  <a href="https://docs.learningcommons.org/" target="_blank">Docs</a>
 </p>
@@ -20,7 +20,7 @@ We’re building AI infrastructure tools to help edtech tools align more closely
 
 Check out our [technical docs](https://docs.learningcommons.org/).
 
-## 🚀 Tell us how you’re using our resources:
+## **🚀 Tell us how you’re using our resources**
 Whether it's a prototype, a product feature, or an experiment, your use case gives us valuable insight into real-world applications — and helps shape what we build next. We’re excited to learn from what you’re building.  
 
  **👉 [Share your work with us](https://docs.google.com/forms/d/e/1FAIpQLScvyzs1_wYTzc03iQfxQWKWZjn2i1c5OZh4rMsfMpyMMMtSyg/viewform)**
