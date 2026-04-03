@@ -1,8 +1,8 @@
 <img  style="width:100%" alt="edu_hero" src="https://github.com/user-attachments/assets/fa02b5ee-982e-41a4-a89c-42e365a04680" />
 <p align="center">
-  <a href="https://docs.learningcommons.org/" target="_blank">Docs</a>
+ <a href="https://platform.learningcommons.org/" target="_blank">Go to the Learning Commons Platform</a>
   •
-  <a href="https://learningcommons.org/contact/?utm_source=github&utm_medium=overview&utm_campaign=privatebeta" target="_blank">Partner with us</a>
+ <a href="https://docs.learningcommons.org/" target="_blank">Docs</a>
 </p>
 
 ## **🧰 About our AI Developer Tools**  
@@ -14,6 +14,8 @@ We’re building AI infrastructure tools to help edtech tools align more closely
 
 [Evaluators](https://github.com/learning-commons-org/evaluators): Assess the instructional quality of educational AI outputs through research-backed educational rubrics and expert-designed scoring systems. With standardized evaluation frameworks and metrics, these tools help assess whether AI-generated content meets high standards of accuracy, pedagogical soundness, and effectiveness.
 
+[Learning Commons Platform](https:/platform.learning-commons.org): Get API keys for Knowledge Graph's API and MCP server, see how datasets connect in the Knowledge Graph Explorer, and run your own text through the Evaluators Playground.
+
 [Learn more](https://learningcommons.org/for-developers/?utm_source=github&utm_medium=overview) about our developer tools. 
 
 Check out our [technical docs](https://docs.learningcommons.org/).
@@ -21,18 +23,16 @@ Check out our [technical docs](https://docs.learningcommons.org/).
 ## 🚀 Tell us how you’re using our resources:
 Whether it's a prototype, a product feature, or an experiment, your use case gives us valuable insight into real-world applications — and helps shape what we build next. We’re excited to learn from what you’re building.  
 
- **👉 Share your work with us [here.](https://docs.google.com/forms/d/e/1FAIpQLScvyzs1_wYTzc03iQfxQWKWZjn2i1c5OZh4rMsfMpyMMMtSyg/viewform)**
+ **👉 [Share your work with us](https://docs.google.com/forms/d/e/1FAIpQLScvyzs1_wYTzc03iQfxQWKWZjn2i1c5OZh4rMsfMpyMMMtSyg/viewform)**
 
 
 ## **💬 Support & feedback**
 For questions or feedback, please open an issue in the repository or reach out to us at [support@learningcommons.org](mailto:support@learningcommons.org).
 
-## **🤝 Partner with us**
+## **Stay up to date**
+Sign up for a <a href="https://platform.learningcommons.org" target="_blank">Learning Commons account</a> to receive news about the latest Evaluators updates, and releases.
 
-Interested in joining our private beta or partnering with us to advance the public good of educational AI? 
-
-Join the waitlist to unlock exclusive access to datasets and evaluators, get early previews of integrations, and receive hands-on support from our team. [Contact us](https://learningcommons.org/contact/?utm_source=github&utm_medium=overview&utm_campaign=privatebeta). 
-## **🛡️ Reporting security Issues**
+## **🛡️ Reporting security issues**
 If you believe you have found a security issue, please responsibly disclose by contacting us at [security@learningcommons.org](mailto:security@learningcommons.org).
 
 ## **📝 Disclaimer**
