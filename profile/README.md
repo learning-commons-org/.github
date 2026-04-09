@@ -14,7 +14,7 @@ We’re building AI infrastructure tools to help edtech tools align more closely
 
 [Evaluators](https://github.com/learning-commons-org/evaluators): Assess the instructional quality of educational AI outputs through research-backed educational rubrics and expert-designed scoring systems. With standardized evaluation frameworks and metrics, these tools help assess whether AI-generated content meets high standards of accuracy, pedagogical soundness, and effectiveness.
 
-[Learning Commons Platform](https:/platform.learning-commons.org): Get API keys for Knowledge Graph's API and MCP server, see how datasets connect in the Knowledge Graph Explorer, and run your own text through the Evaluators Playground.
+[Learning Commons Platform](https://platform.learningcommons.org): Get API keys for Knowledge Graph's API and MCP server, see how datasets connect in the Knowledge Graph Explorer, and run your own text through the Evaluators Playground.
 
 [Learn more](https://learningcommons.org/for-developers/?utm_source=github&utm_medium=overview) about our developer tools. 
 
