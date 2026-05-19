@@ -1,4 +1,4 @@
-<img  style="width:100%" alt="edu_hero" src="https://github.com/user-attachments/assets/fa02b5ee-982e-41a4-a89c-42e365a04680" />
+<img  style="width:100%" alt="edu_hero" src="https://github.com/learning-commons-org/.github/blob/main/assets/org_hero_2.jpg" />
 <p align="center">
  <a href="https://platform.learningcommons.org/" target="_blank">Learning Commons Platform</a>
   •
